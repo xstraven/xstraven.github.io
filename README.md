@@ -1,2 +1,2 @@
 # xstraven.github.io
-My personal website
+Welcome to my personal website. I am a Berlin-based ML Scientist / Engineer with nearly a decade of experience in the data and AI space.
