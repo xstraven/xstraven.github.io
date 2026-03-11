@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /404.html
-Disallow: /files/*
+Disallow:
 Allow: /
-Sitemap: https://zola-hacker.enginerd.io/sitemap.xml
+Sitemap: https://xstraven.github.io/sitemap.xml

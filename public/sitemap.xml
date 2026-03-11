@@ -1,54 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://zola-hacker.enginerd.io/</loc>
+        <loc>https://xstraven.github.io/</loc>
     </url>
     <url>
-        <loc>https://zola-hacker.enginerd.io/about/</loc>
+        <loc>https://xstraven.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://zola-hacker.enginerd.io/another-page/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/page/2/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/fifth-post/</loc>
-        <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/first-post/</loc>
-        <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/fourth-post/</loc>
-        <lastmod>2017-01-07T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/second-post/</loc>
-        <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/sixth-post/</loc>
-        <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/posts/third-post/</loc>
-        <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/tags/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/tags/features/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/tags/markdown/</loc>
-    </url>
-    <url>
-        <loc>https://zola-hacker.enginerd.io/tags/second/</loc>
+        <loc>https://xstraven.github.io/tags/</loc>
     </url>
 </urlset>
