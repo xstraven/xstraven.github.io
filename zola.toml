@@ -1,7 +1,7 @@
 base_url = "https://xstraven.github.io"
 title = "xstraven.github.io"
 description = "Personal website of a Berlin-based ML scientist and engineer."
-author = "David"
+author = "Xstraven"
 theme = "terminus"
 compile_sass = false
 generate_feeds = false
