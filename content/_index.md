@@ -9,6 +9,4 @@ max_posts = 5
 
 # Hello there
 
-This site is now running on the `terminus` Zola theme.
-
-New posts will appear here once they are published.
+My name is David // Xstraven. This is my small dev blog where I write about things I am learning.
