@@ -1,6 +1,6 @@
 +++
 title = "The ML in Rust Adventure"
-date = 2026-03-32
+date = 2026-03-21
 +++
 
 I have started on a journey to learn how to train and deploy ML models using Rust using [burn](https://github.com/tracel-ai/burn). I am starting with Andrej Karpathy's *Let's build GPT-2* series. After that I will follow Nathan Lambert's *RLHF book* and accompanying lectures. Both of those guys are incredible champions of Open Source ML work and I am really looking forward to learn from them. By the end of 2026 I would love to bring embedded into the mix as well.
